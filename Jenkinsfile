@@ -14,7 +14,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Build stage started.'
+                echo  'Build stage started - Lab 9 CI Pipeline.'
                 echo 'Project build completed successfully.'
             }
         }
